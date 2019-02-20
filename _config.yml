@@ -1,5 +1,5 @@
 # Base configs
-#baseurl: "http://studiovikastandon.xyz"
+baseurl: "http://studiovikastandon.xyz"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
